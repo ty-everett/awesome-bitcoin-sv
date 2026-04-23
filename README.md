@@ -34,24 +34,28 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 
 ## Getting Started
 
-- [Bitcoin SV Website](https://bitcoinsv.io/)
+- [BSV Blockchain Website](https://bsvblockchain.org/)
 - [Bitcoin SV Wiki](https://en.wikipedia.org/wiki/Bitcoin_SV)
-- [BSV Developer Documentation](https://docs.bitcoinsv.io/)
+- [BSV Developer Documentation](https://docs.bsvblockchain.org/)
 - [BSV GitHub Repository](https://github.com/bitcoin-sv/bitcoin-sv)
+- [BSV TypeScript SDK Documentation](https://bsv-blockchain.github.io/ts-sdk/)
 
 ## Development Libraries
 
-
+- [BSV TypeScript SDK](https://github.com/bsv-blockchain/ts-sdk) - Current TypeScript/JavaScript SDK published as `@bsv/sdk`.
+- [BSV Wallet Toolbox](https://github.com/bsv-blockchain/wallet-toolbox) - BRC-100 wallet storage, services, signing, and implementation tooling.
+- [BSV Go SDK](https://github.com/bsv-blockchain/go-sdk) - Current Go SDK for BSV applications.
+- [Go Wallet Toolbox](https://github.com/bsv-blockchain/go-wallet-toolbox) - Go tooling for BRC-100 wallet implementations.
+- [BSV Script Templates](https://github.com/bsv-blockchain/ts-templates) - Script templates for the TypeScript SDK.
 - [Bitindex JavaScript Library](https://github.com/bitindex/bitindex-sdk-js)
 - [sCrypt-TS SmartContracts Library](https://github.com/sCrypt.inc)
-- [Money Button JavaScript Library](https://github.com/moneybutton/bsv)
 - [Dart Library for Interacting with Bitcoin Network](https://github.com/twostack/dartsv)
 - [Twetch JavaScript Library](https://github.com/repcomm/twetch-js)
 - An internet archive tool that permanently timestamps and stores web pages and images directly onto bitcoin itself.
 - [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
 - [Codeonchain](http://codeonchain.network/) - Upload a repository to metanet.
 - [PayPresto](https://www.paypresto.co/) - The simplest way to let your users fund data transactions in your BSV app.
-- [Bitcoin SV Lib](https://github.com/moneybutton/bsv) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
+- [Money Button / Yours bsv library](https://github.com/moneybutton/bsv) - Historical JavaScript BSV library. Prefer `@bsv/sdk` for new applications.
 - [bitcoinj-sv](https://gitlab.com/bitcoinj-sv/bitcoinj-sv/) - The bitcoinj-sv library is a Java implementation of the Bitcoin SV protocol. This library is a fork of Mike Hearn's original bitcoinj library aimed at supporting Bitcoin SV.
 - [BitSV](https://github.com/AustEcon/bitsv) - An easy-to-use Python 3, Bitcoin SV library.
 - [Electrum Client](https://github.com/you21979/node-electrum-client) - Electrum Protocol Client for Node.js.
@@ -62,6 +66,11 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 
 
 ## Service & Tools
+- [BSV Desktop](https://github.com/bsv-blockchain/bsv-desktop) - BSV Association reference BRC-100 desktop wallet.
+- [BSV Browser](https://github.com/bsv-blockchain/bsv-browser) - BSV Association reference browser application.
+- [Overlay Express](https://github.com/bsv-blockchain/overlay-express) - Express tooling for BSV Overlay Services.
+- [Overlay Services](https://github.com/bsv-blockchain/overlay-services) - TypeScript Overlay Services engine.
+- [Message Box Client](https://github.com/bsv-blockchain/message-box-client) - BRC-103-based peer-to-peer messaging client.
 - [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
 - [etched](https://etched.page/) 
 - [ElectrumSV Wallet](https://electrumsv.io/)
