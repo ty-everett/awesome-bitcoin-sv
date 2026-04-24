@@ -43,6 +43,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 ## Development Libraries
 
 - [BSV TypeScript SDK](https://github.com/bsv-blockchain/ts-sdk) - Current TypeScript/JavaScript SDK published as `@bsv/sdk`.
+- [WalletClient Quickstart](https://fast.brc.dev/) - Practical BRC-100 `WalletClient` examples for application developers.
 - [BSV Wallet Toolbox](https://github.com/bsv-blockchain/wallet-toolbox) - BRC-100 wallet storage, services, signing, and implementation tooling.
 - [BSV Go SDK](https://github.com/bsv-blockchain/go-sdk) - Current Go SDK for BSV applications.
 - [Go Wallet Toolbox](https://github.com/bsv-blockchain/go-wallet-toolbox) - Go tooling for BRC-100 wallet implementations.
@@ -70,7 +71,10 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [BSV Browser](https://github.com/bsv-blockchain/bsv-browser) - BSV Association reference browser application.
 - [Overlay Express](https://github.com/bsv-blockchain/overlay-express) - Express tooling for BSV Overlay Services.
 - [Overlay Services](https://github.com/bsv-blockchain/overlay-services) - TypeScript Overlay Services engine.
+- [LARS](https://github.com/bsv-blockchain/lars) - Local Automated Runtime System for BSV application projects.
+- [CARS CLI](https://github.com/bsv-blockchain/cars-cli) - Cloud Automated Runtime System CLI for BSV application deployment.
 - [Message Box Client](https://github.com/bsv-blockchain/message-box-client) - BRC-103-based peer-to-peer messaging client.
+- [Message Box Server](https://github.com/bsv-blockchain/message-box-server) - Reference server for peer-to-peer message delivery.
 - [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
 - [etched](https://etched.page/) 
 - [ElectrumSV Wallet](https://electrumsv.io/)
